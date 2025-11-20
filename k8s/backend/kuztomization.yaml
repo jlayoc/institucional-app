@@ -1,0 +1,7 @@
+resources:
+  - deployment.yaml
+  - service.yaml
+
+images:
+  - name: ghcr.io/jlayoc/institucional-backend
+    newTag: latest
