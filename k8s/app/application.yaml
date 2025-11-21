@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: 'https://github.com/jlayoc/institucional'
+    repoURL: 'https://github.com/jlayoc/institucional-app'
     targetRevision: main
     path: k8s/app    
 
